@@ -731,6 +731,10 @@ margin-bottom: 16px;
     fill: #4D5AE5;
 }
 
+.modal-field-user {
+    margin-bottom: 16px;
+}
+
 .modal-label {
     font-size: 12px;
     line-height: 1.16667;
@@ -789,7 +793,6 @@ margin-bottom: 16px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    display: flex;
     align-items: center;
     font-weight: 400;
     margin-bottom: 24px;
@@ -823,6 +826,10 @@ margin-bottom: 16px;
     background-color: #404BBF;
     border: none;
     fill: #F4F4FD;
+}
+
+.modal-field-check {
+     margin-bottom: 24px;
 }
 
 .modal-btn {
